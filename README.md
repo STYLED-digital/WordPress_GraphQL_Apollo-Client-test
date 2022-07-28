@@ -1,2 +1,3 @@
-# WordPress_GraphQL_Apollo-Client-test
+# nextjs + graphql + apollo client
+
 Created with CodeSandbox
